@@ -1,5 +1,5 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "beck's website"
 featured_image: '/Users/michelle.ngo/Documents/GitHub/portfolio/themes/ananke/content/gohugo-default-sample-hero-image.jpg'
 description: "The last theme you'll ever need. Maybe"
 ---
