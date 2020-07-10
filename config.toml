@@ -2,3 +2,6 @@ baseURL = "https://beckgoodman.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
+
+[params]
+  site_logo = "/static/images/esmeralda.jpg"
