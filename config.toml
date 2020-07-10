@@ -4,4 +4,4 @@ title = "My New Hugo Site"
 theme = "ananke"
 
 [params]
-  site_logo = "/static/images/esmeralda.jpg"
+  site_logo = "/images/esmeralda.jpg"
