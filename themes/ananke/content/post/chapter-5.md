@@ -1,7 +1,7 @@
 ---
 date: 2017-04-13T11:15:58-04:00
 description: "Quasimodo"
-featured_image: "/portfolio/themes/ananke/static/images/beck.jpg"
+featured_image: "../static/images/beck.jpg"
 tags: []
 title: "Chapter V: Quasimodo"
 ---
