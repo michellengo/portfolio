@@ -1,6 +1,6 @@
 ---
 title: "beck's website"
-featured_image: '/images/beck.jpg'
+featured_image: '../images/beck.jpg'
 description: "The last theme you'll ever need. Maybe"
 ---
 Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below
